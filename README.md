@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DigMyCode
 - 👀 I’m interested in BlockChain Industry
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Solidity and JavaScript
 - 💞️ I’m looking to collaborate on BlockChain projects
 - 📫 You can reach me on Telegram
 
